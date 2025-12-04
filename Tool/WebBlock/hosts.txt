@@ -1,5 +1,0 @@
-# Copyright (c) 1993-2009 Microsoft Corp.
-# Đây là file hosts giả lập
-127.0.0.1       localhost
-
-
